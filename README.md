@@ -8,11 +8,13 @@ I work primarily with **Java, Spring Boot, React, and PostgreSQL**, and I'm curr
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at Amritsar Group of Colleges.
-- 💡 Passionate about backend systems, distributed architectures, and building production-grade REST APIs.
-- 🌐 Interested in open-source development and continuously improving software engineering practices.
+I'm currently pursuing a **B.Tech in Computer Science and Engineering** at Amritsar Group of Colleges.
+
+I enjoy building full-stack applications, developing REST APIs, working with databases, and learning new technologies through practical projects.
+
+I'm also interested in open-source development and continuously improving my problem-solving and development skills.
 
 ---
 
@@ -23,43 +25,124 @@ I work primarily with **Java, Spring Boot, React, and PostgreSQL**, and I'm curr
 - JavaScript
 - SQL
 
-### Backend & Databases
-- Spring Boot (Spring Security, Spring Data JPA)
-- RESTful APIs
-- PostgreSQL
-- Redis
-
 ### Frontend
-- HTML / CSS
+- HTML
+- CSS
 - React
 - Tailwind CSS
 
-### DevOps & Tools
-- Git & GitHub
-- Docker
+### Backend & Database
+- Spring Boot
+- REST APIs
+- PostgreSQL
+
+### Tools & Technologies
+- Git
+- GitHub
 - Maven
+- Docker
 - Postman
-- Linux / VS Code
+- VS Code
 
 ### Core Concepts
 - Data Structures & Algorithms
-- Object-Oriented Design & Design Patterns
-- Database Management Systems (DBMS)
-- Authentication & Authorization (JWT, RBAC, OAuth2)
+- Object-Oriented Programming
+- DBMS
+
+### Currently Learning
+- Machine Learning
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. Aegis-IAM (Identity & Access Management Engine)
-**Tech Stack:** Java 21 · Spring Boot 3.4 · Spring Security 6 · PostgreSQL · Redis
-- Zero-trust authentication and access management platform.
-- Cryptographic SHA-256 refresh token rotation with token family tracking and automatic replay attack detection.
-- Granular Role-Based Access Control (RBAC) with method-level security (`@PreAuthorize`).
-- Distributed session tracking across devices, secure email verification, and password recovery with anti-enumeration defenses.
+### 1. E-Commerce Website
 
-### 2. Full-Stack E-Commerce Platform
 **Tech Stack:** Spring Boot · React · PostgreSQL · JWT
-- Full-stack e-commerce system with modular architecture.
-- Secure JWT-based authentication and user management.
-- Dynamic product catalog, shopping cart, and order processing workflows.
+
+A full-stack e-commerce platform built with a React frontend and Spring Boot backend.
+
+**Key Features:**
+- Secure JWT-based authentication
+- RESTful APIs
+- User management
+- Product management
+- Shopping cart functionality
+- Order management
+- Full CRUD operations
+- PostgreSQL database integration
+
+**Repository:** https://github.com/sehaj007saini/E-Commerce
+
+---
+
+### 2. Disease Prediction Website
+
+**Tech Stack:** Spring Boot · React · FastAPI · PostgreSQL · Random Forest
+
+A full-stack disease prediction platform that combines web development with machine learning.
+
+**Key Features:**
+- React-based frontend
+- Spring Boot backend
+- User authentication
+- REST APIs
+- FastAPI machine learning microservice
+- Random Forest prediction model
+- PostgreSQL database
+- User and patient data management
+- Communication between Spring Boot and FastAPI through REST
+- Real-time predictions
+
+**Repository:** https://github.com/sehaj007saini/Disease-Prediction
+
+---
+
+### 3. Weather App
+
+**Tech Stack:** JavaScript · API Integration
+
+A web application that displays real-time weather information using a public API.
+
+**Key Features:**
+- Public weather API integration
+- Real-time weather data
+- JavaScript-based implementation
+- Simple and responsive interface
+
+---
+
+## 🏆 Achievements
+
+- **93%** in NPTEL's *Joy of Computing Using Python*
+- **Contributor** — GirlScript Summer of Code
+- **1400+** rapid chess rating
+- Active problem solver on **LeetCode**
+
+---
+
+## 🎓 Education
+
+### B.Tech in Computer Science and Engineering
+
+**Amritsar Group of Colleges**  
+2024 – 2028
+
+---
+
+## 📫 Connect With Me
+
+**Email:**  
+[sehajsainif5@gmail.com](mailto:sehajsainif5@gmail.com)
+
+**LinkedIn:**  
+[linkedin.com/in/sehajpreet-singh-226775336](https://www.linkedin.com/in/sehajpreet-singh-226775336)
+
+**LeetCode:**  
+[leetcode.com/u/Sehaj007saini](https://leetcode.com/u/Sehaj007saini/)
+
+---
+
+### 💡 Always learning. Always building.
+
+© 2026 Sehajpreet Singh
